@@ -1,7 +1,7 @@
 name: 'Fenwick & West Branding'
 favicon: null
-layout_spectrum: 0.6616491135209799
-typography_spectrum: 0.4720979225821793
+layout_spectrum: 0.25605
+typography_spectrum: 0.63204
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.9949278177227825
-  lightness: 0.5162515565752983
-  saturation: 0.2722296714782715
-  rhythmicContrast: 0.21088605839759111
+    - '#ffffff'
+    - '#c3d600'
+    - '#62cbe1'
+    - '#243746'
+    - '#fd4513'
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
