@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Fenwick & West Branding]]></title>
         <description><![CDATA[Fenwick & West Branding]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fenwick-and-west-branding/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 17:16:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Mar 2016 17:24:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fenwick-and-west-branding/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[palette]]></title>
+            <description><![CDATA[<article><h1>palette</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1420685bb78f6dae1f0f273dfddce2b5a3f4a9fe.jpg"></article>]]></description>
+            <link>https://thegrid.ai/fenwick-and-west-branding/palette/index.html</link>
+            <guid isPermaLink="false">ab6e294c-ccf1-4225-8ebb-024943209be4</guid>
+            <pubDate>Fri, 11 Mar 2016 17:23:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4eda56b-360e-44f7-b5a2-7d3182ea0909.jpg">]]></description>
-            <link>undefinedae6cf27a-7cfd-427b-93ce-5f156d466d8f/index.html</link>
+            <link>https://thegrid.ai/fenwick-and-west-branding/ae6cf27a-7cfd-427b-93ce-5f156d466d8f/index.html</link>
             <guid isPermaLink="false">ae6cf27a-7cfd-427b-93ce-5f156d466d8f</guid>
             <pubDate>Fri, 11 Mar 2016 17:16:42 GMT</pubDate>
         </item>
